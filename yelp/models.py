@@ -10,6 +10,7 @@ class Restaurant(Base):
     name = Column(String, nullable=False)
     city = Column(String, nullable=False)
     cuisine_style = Column(String, nullable=False)
+    seats_nb = Column(Integer)
 
     def __repr__(self):
         return f"('{self.id}', '{self.name}', '{self.cuisine_style}', '{self.city}')"
