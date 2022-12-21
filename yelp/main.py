@@ -1,10 +1,24 @@
-from fastapi import FastAPI
-from yelp import schemas
+from fastapi import FastAPI, Depends
+from sqlalchemy.orm import Session
+
+from yelp import schemas, models
+from yelp.database import SessionLocal
 
 app = FastAPI()
 
 db = [{"name": "Chez Justine", "cuisine_style": "French", "city": "Paris"},
       {"name": "L'Alicheur", "cuisine_style": "Asian", "city": "Paris"}]
+
+def get_db():
+    """Helper function which opens a connection to the database and also manages closing the connection
+    See https://fastapi.tiangolo.com/tutorial/dependencies/dependencies-with-yield/
+    """
+
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
 
 @app.get("/restaurants", response_model=List[schemas.Restaurant])
 def get_restaurants():
