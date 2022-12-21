@@ -21,8 +21,8 @@ def get_db():
         db.close()
 
 @app.get("/restaurants", response_model=List[schemas.Restaurant])
-def get_restaurants():
-    return db
+def get_restaurants(db: Session = Depends(get_db)):
+    return db.query(models.Restaurant).all()
 
 @app.get("/restaurants/{restaurant_id}", response_model=schemas.Restaurant)
 def get_restaurant(restaurant_id: int):
@@ -33,7 +33,10 @@ def delete_restaurant(restaurant_id: int):
     db.pop(restaurant_id - 1)
     return {}
 
-@app.post("/restaurants")
-def create_restaurant(restaurant: schemas.Restaurant):
-    db.append(restaurant.dict())
-    return db[-1]
+@app.post("/restaurants", response_model=schemas.Restaurant)
+def create_restaurant(restaurant: schemas.Restaurant, db: Session = Depends(get_db)):
+    new_restaurant = models.Restaurant(**restaurant.dict())
+    db.add(new_restaurant)
+    db.commit()
+    db.refresh(new_restaurant)
+    return new_restaurant
