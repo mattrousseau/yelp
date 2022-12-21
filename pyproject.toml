@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.8"
 uvicorn = "^0.20.0"
 pydantic = "^1.10.2"
+sqlalchemy = "^1.4.45"
 
 
 [build-system]

@@ -1,0 +1,943 @@
+id,name,city,cuisine_style
+1,Suarna,Barcelona,Mediterranean
+2,The Wee Box Cafe,Edinburgh,Cafe
+3,Le Safran,Paris,French
+4,Crackers,Berlin,European
+5,Pear Tree Cafe,London,Cafe
+6,McDonald's,London,Fast Food
+7,Paneria,Prague,Fast Food
+8,Ristorante Arco di S. Calisto,Rome,Italian
+9,Hamburgaria a Gina,Lisbon,American
+10,Mibi's International Cuisine,Prague,Japanese
+11,Hyttefadet,Copenhagen,Bar
+12,Mallagueta,Lisbon,European
+13,La Creperie Bretonne,Paris,French
+14,Le Primerose,Paris,French
+15,Cucina Casereccia da Marcello,Rome,Italian
+16,Veranda,Geneva,French
+17,Restaurant U Krale Karla,Prague,Mediterranean
+18,Bangkok-Vienna,Vienna,Asian
+19,Hunger Hut,London,Pizza
+20,Il Rifugio,Brussels,Italian
+21,La Verde Umbria,Barcelona,Italian
+22,Bjolsen Sushi,Oslo,Japanese
+23,Sushi Xxl,Hamburg,Asian
+24,Fragments cafe,Barcelona,Mediterranean
+25,Polpetta D.O.C.,Milan,Italian
+26,Divina Pasta,Barcelona,Italian
+27,Com Cuore,Oporto,Gluten Free Options
+28,Meno Male Kungsholmen,Stockholm,Italian
+29,Restaurang Lucky Garden,Stockholm,Chinese
+30,Corey's Soul Chicken,Milan,American
+31,Ristorante Fezzi,Hamburg,Italian
+32,Cafe Sattva,Stockholm,Delicatessen
+33,Le Barbylone,Paris,French
+34,Solidni jistota,Prague,European
+35,Mooty,Paris,French
+36,Kappacasein,London,Fast Food
+37,Cafe del Monaguillo,Madrid,Spanish
+38,La Cuccagna,Milan,Italian
+39,Kalus Restaurant,Berlin,International
+40,Estrela de Ouro,Lisbon,European
+41,La Vespa Bar and Trattoria,Berlin,Italian
+42,Solito Posto,Brussels,Italian
+43,The Parlour,London,Cafe
+44,Caseiro,Lisbon,Mediterranean
+45,Pizzeria Naturale,Milan,Italian
+46,Nisida,Milan,Italian
+47,Oka Restaurant,London,Japanese
+48,The Restaurant at St Paul's,London,British
+49,Taberna Entre Castillas,Madrid,Seafood
+50,Il Tavolo Verde,Madrid,Mediterranean
+51,Art Cafe Dublin,Dublin,Irish
+52,La Terrazza Dei Papi,Rome,Italian
+53,Mangetsu Sushi,London,Chinese
+54,Piwnica Pod Zlota Pipa,Krakow,Polish
+55,Szechuan Restaurant,Prague,Chinese
+56,Fruehsammers Restaurant,Berlin,Fusion
+57,Juan el paso tex mex,London,Mexican
+58,McDonald's,Paris,American
+59,Casa di David,Amsterdam,Italian
+60,foster's hollywood,Barcelona,American
+61,Birdie Num Nums,London,Cafe
+62,Domino’s Pizza,Madrid,Italian
+63,Los 60 Gastro Bar,Madrid,Spanish
+64,Stravinskij Bar - Hotel De Russie,Rome,Italian
+65,Restaurante O-Retornino,Barcelona,Seafood
+66,Churrasqueira Portuguesa do Amial,Oporto,Steakhouse
+67,Nat's LunchBox,Madrid,Mediterranean
+68,Brew Pub le Sec,Barcelona,Pub
+69,Fratelli Scarpetta,Rome,Italian
+70,Restaurang Hemma Vasastan,Stockholm,European
+71,Maxim,London,Chinese
+72,La Raquetista,Madrid,Mediterranean
+73,Chinmi Asian Fusion,Milan,Chinese
+74,Foxlow Clerkenwell,London,American
+75,Thai Vanda,Paris,Thai
+76,La Coloniale Degustazione Vini,Milan,Pub
+77,Ibrik,Paris,French
+78,Restaurant - Marisqueria El Faro,Barcelona,Seafood
+79,Giraffe Restaurant-Kneipe-Cafe,Berlin,German
+80,Rosa Parks Cafe,Berlin,French
+81,La garriga,Madrid,Bar
+82,El Grado,Athens,Greek
+83,Bistrot Le Cap,Paris,French
+84,This is not a sushibar,Milan,Japanese
+85,Macis & Muscade,Paris,French
+86,Manora Blandonnet,Geneva,French
+87,Maxi's,Edinburgh,Cafe
+88,Louro,Barcelona,European
+89,Sherpa Restaurant,Amsterdam,Indian
+90,Riche,Stockholm,Swedish
+91,Dragon et Phenix,Paris,French
+92,Dai Pai,Edinburgh,Asian
+93,Gail's Artisan Bakery,London,Cafe
+94,"""O Prove""",Lisbon,European
+95,Le Paris Orleans Cafe,Paris,French
+96,La Botte,Budapest,Italian
+97,Jacobs Restaurant,Hamburg,French
+98,antica trattoria,Luxembourg,Italian
+99,East India,Stockholm,Indian
+100,Prinzen Falafel,Berlin,Fast Food
+101,500 Restaurant,Prague,Italian
+102,Eggs & Co,Paris,French
+103,Le Murmure fracassant,Paris,French
+104,Caffe Dell'Amore,Warsaw,Italian
+105,Milano,Dublin,Italian
+106,Houblon et Sarrasin,Paris,French
+107,A Toca,London,Mediterranean
+108,Coquette,Paris,French
+109,Corstorphine Inn,Edinburgh,Bar
+110,Yoburger,Copenhagen,American
+111,Cafe van Daele,Amsterdam,Dutch
+112,M.E.D House restaurant and Cocktail bar,Prague,Mediterranean
+113,Maison Maison,Paris,French
+114,Benko,Munich,Mediterranean
+115,Huasheng,Madrid,Chinese
+116,O Recanto,Lisbon,Mediterranean
+117,Happiness,Madrid,Chinese
+118,Bebel's,Milan,Italian
+119,Bouillabaise,Berlin,Seafood
+120,Bengal Spice,London,Indian
+121,L. A. Finger Food,Prague,Fast Food
+122,The Grill Restaurant,London,Steakhouse
+123,Marcos Restaurant,Barcelona,Mediterranean
+124,Polpo Bar & Restaurant by Kogo,Prague,Italian
+125,Cafeteria Trebol,Madrid,Spanish
+126,Arg Restaurant,London,Middle Eastern
+127,La Boussole,Paris,French
+128,Al Colosseo,Berlin,Italian
+129,Izu,Milan,Japanese
+130,La Divina Comedia,Brussels,Italian
+131,Ristorante Terme di Diocleziano,Rome,Italian
+132,Osteria Il Melograno,Milan,Italian
+133,La Provence,Paris,Mediterranean
+134,Ristorante Liola,Rome,Italian
+135,Villa Borghese,Paris,Italian
+136,Le Bouquet des Archives,Paris,French
+137,Zhao Zhou teashop & lab,Budapest,Gluten Free Options
+138,Spouter's Corner,London,Bar
+139,El Jardin Del Eden,Barcelona,Mediterranean
+140,Punt De Trobada,Barcelona,Mediterranean
+141,Le Telephone,Paris,Brew Pub
+142,PIZZERIA OSTIENSE,Rome,Italian
+143,Die Halle CafeRestaurant der Kunsthalle Wien,Vienna,Austrian
+144,Sakunthala's Pan Asia Restaurant,London,Asian
+145,Bar packy cafe,Rome,Bar
+146,Terreiro,Oporto,Seafood
+147,Nas Svarak,Prague,European
+148,Trattoria La Terrazza,Berlin,Italian
+149,Bar Viminale,Rome,Italian
+150,Cafe Diana,London,Cafe
+151,Pans & Company,Barcelona,Fast Food
+152,2. Akt Restaurant & Bar,Zurich,Swiss
+153,Bodega 64,Paris,Mediterranean
+154,Winkolekcja Wine Bar,Warsaw,Wine Bar
+155,Bar Bodega Montse,Barcelona,Spanish
+156,Restaurante Manuel do Abade,Oporto,European
+157,Thai Khorat,Amsterdam,Asian
+158,O'Mexico,Paris,Mexican
+159,Jo Sushi,Amsterdam,Japanese
+160,100 Montaditos Princesa,Madrid,Fast Food
+161,Hotbird Pizza,London,Pizza
+162,Osteria,Warsaw,Seafood
+163,The Yard,London,Bar
+164,Le Biz,Paris,French
+165,Restaurace Na Pesinach,Prague,European
+166,OM Sienna,Warsaw,Indian
+167,Family Fast Food,Rome,Asian
+168,Stock,Amsterdam,Cafe
+169,Zuum,Barcelona,Healthy
+170,Paelleria,Barcelona,Mediterranean
+171,Wirtshaus zum Isartal,Munich,Vegetarian Friendly
+172,Restaurant Victor,Berlin,German
+173,Brasserie Le Commerce,Lyon,French
+174,Le Zeyer,Paris,French
+175,Restaurante El Porton de Princesa,Madrid,Spanish
+176,kadoya,Paris,Japanese
+177,Studio Buffo,Warsaw,Polish
+178,The Libertine,London,Bar
+179,Yoi Sushi,Madrid,Japanese
+180,Polskie Smaki,Krakow,Polish
+181,Mest Bar & Kok,Stockholm,Bar
+182,Island Poke,London,Seafood
+183,Floris Bar,Brussels,Pub
+184,Cafeteria Teresa,Madrid,Spanish
+185,Prezzo,London,Italian
+186,Asian Flavours,Amsterdam,Asian
+187,St Martin-in-the-Fields Cafe in the Courtyard,London,Cafe
+188,Pata Negra,Amsterdam,Bar
+189,Napoletano's,Rome,Italian
+190,los optimisticos,Prague,Spanish
+191,The Sushi Club,Berlin,Japanese
+192,Kfc,London,American
+193,Meram Bos en Lommer,Amsterdam,Mediterranean
+194,Chez Jules,Edinburgh,French
+195,Hippopotamus,Lyon,French
+196,Le Bar-Brasserie-Restaurant le Sympathique,Paris,French
+197,Restaurante O Mordomo,Oporto,Brazilian
+198,Fiaschetteria La Saletta,Madrid,Italian
+199,Le Rollin,Paris,French
+200,Giorgio of Gramegna's Supper Club,Milan,Fusion
+201,Mamapita,Hamburg,Italian
+202,Pantry,Berlin,Contemporary
+203,Conde de Barajas,Madrid,Spanish
+204,Coffee Club,Krakow,Italian
+205,Tamesis Dock,London,Bar
+206,Restaurante Sanabres,Barcelona,Mediterranean
+207,U Rytire,Prague,European
+208,La Xampanyeria de Tuset,Barcelona,Mediterranean
+209,Kumo Sushi Bar Take Away,Milan,Japanese
+210,Sweetings,London,Seafood
+211,"Vas-Y,Vas-Y",Lyon,French
+212,Rasoi Indian Restaurant,Vienna,Indian
+213,L'Avant Premiere,Paris,French
+214,La Table,Paris,French
+215,Gin Rosa,Milan,Italian
+216,Freischwimmer,Berlin,German
+217,Pizzeria di Sforza Piero,Rome,Fast Food
+218,Momento,Milan,Italian
+219,Bistrot Paul Chene,Paris,French
+220,Pizza Hut,Paris,Pizza
+221,KFC,Madrid,Fast Food
+222,U Podkovy Restaurace,Prague,Czech
+223,Open Baladin,Rome,Italian
+224,The Royal Quarter Cafe,London,Cafe
+225,Ristorante Alghero,Munich,Italian
+226,Porssi,Helsinki,Scandinavian
+227,Heimlich Treu,Berlin,German
+228,Zizzi - Victoria,London,Italian
+229,Cocobello am Copa Beach Wien,Vienna,Bar
+230,Bonners Fish Bar,London,Fast Food
+231,Hospudka u Palecka,Prague,Bar
+232,Trapizzino Testaccio,Rome,Italian
+233,Meat The Chaps,London,Steakhouse
+234,Old Jazz Cafe,Krakow,Polish
+235,Sushi Bar Bluszczanska,Warsaw,Japanese
+236,Al Argentino,Amsterdam,Steakhouse
+237,Boca Boca,Prague,Cafe
+238,Pasta Nostra - Villarroel,Barcelona,Italian
+239,Bambini Pizzeria & Ristorante,Prague,Italian
+240,Movies,Zurich,American
+241,Hopfengarten,Munich,Mediterranean
+242,Chez Enzo,Paris,Italian
+243,Tonda,Madrid,Italian
+244,U Tri Korunek,Prague,European
+245,Casa Almirall,Barcelona,Bar
+246,Il Re di Puglia,Amsterdam,Italian
+247,Hot & Smoked,Madrid,American
+248,Craft Beer Muranow Piwny Swiat,Warsaw,Brew Pub
+249,KAZ BAR,Paris,French
+250,Le Fleuve Rouge,Paris,Vegetarian Friendly
+251,Jas Steakhouse,Hamburg,Steakhouse
+252,SALE PEPE & ROSMARINO,Brussels,Italian
+253,L'Eventail,Paris,French
+254,Tandoor Chop House,London,Indian
+255,Charivari,Paris,French
+256,Ciao Bella Roma,Dublin,Italian
+257,Nerja,Brussels,European
+258,McCafe,Dublin,Cafe
+259,Charlie brown 14,Milan,Italian
+260,Korean BBQ,Edinburgh,Barbecue
+261,Cafe Panache,Amsterdam,Dutch
+262,Addis Abeba,Paris,African
+263,Tasca do Bairro,Oporto,Portuguese
+264,EXKi Malesherbes,Paris,Fast Food
+265,Pizzeria La Favorita,Vienna,Italian
+266,Le 41 Pasteur,Paris,French
+267,Patagaf,Brussels,Italian
+268,Tordenskiold Pub,Oslo,Pub
+269,El Raconet De La Silvia,Barcelona,Mediterranean
+270,A Taberna da Se,Oporto,European
+271,santo y sena,Madrid,Spanish
+272,Hora Haus,Prague,American
+273,Restaurant Barshu,Copenhagen,Thai
+274,Osteria Ponte Sisto,Rome,Italian
+275,Da Riccardo,Rome,Italian
+276,Le Papere - Ristorante,Rome,Seafood
+277,Beauty Killed the Beast,Athens,Bar
+278,Sempre Pizza,Lyon,Italian
+279,PAUL New Street Square,London,French
+280,Vino e Libri,Berlin,Italian
+281,Bozar Brasserie,Brussels,French
+282,Zen Sushi,Helsinki,Japanese
+283,Rufus Pucci Pizza,London,Italian
+284,Lumskebugten,Copenhagen,European
+285,Chimi Churri,Luxembourg,Latin
+286,Rugbyman N° Two,Brussels,French
+287,Fantoci,Prague,Pizza
+288,Cabana Westfield Stratford,London,Brazilian
+289,Stoccaggio Wine Bar,Krakow,Bar
+290,Monsieur Poirot,Paris,French
+291,La Nuova Piazza,Brussels,Italian
+292,Niezly Kociol,Warsaw,International
+293,Caputxes,Barcelona,Mediterranean
+294,Money di Dozio Antonio,Milan,Italian
+295,La Fenice,Rome,Italian
+296,Alhambra,Madrid,Bar
+297,Cantina Hindu,Lisbon,Indian
+298,Blue Elephant,Dublin,Japanese
+299,Sushi Bar Hannah,Madrid,Sushi
+300,Trimani Il Winebar,Rome,Italian
+301,Flussbad Unterer Letten,Zurich,Italian
+302,Dim T,London,Asian
+303,Jensens Boefhus Sergelgatan,Stockholm,Steakhouse
+304,Pizza Luna,Rome,Pizza
+305,BB'z Bar & Grill,Budapest,Bar
+306,Troy 22,London,British
+307,Grycan Ice Cream Cafe,Prague,Cafe
+308,Park Cafe,London,Healthy
+309,HD Diner Lyon,Lyon,American
+310,Lupita del Born,Barcelona,Mexican
+311,Karma Cafe and Restaurant,Budapest,Indian
+312,Ciao Bella,Brussels,Italian
+313,Restaurante Sei La,Oporto,African
+314,My Lola,Madrid,Italian
+315,Banger Bros,London,American
+316,Hua Lian,Rome,Chinese
+317,Leon,London,Indian
+318,El Bombin Bar Bodega,Barcelona,Mediterranean
+319,Blaue Lagune,Vienna,Italian
+320,Cenas en Barco,Barcelona,Mediterranean
+321,Apsorn Thai Restaurant,Oslo,Asian
+322,La Taberna de Gerardo,Madrid,Spanish
+323,Chilli,Prague,Pizza
+324,The Eight Bells,London,Bar
+325,Prime Burger Euston Station,London,American
+326,Rocco,Rome,Italian
+327,Bella Italia Baker Street,London,Italian
+328,Boco Bercy,Paris,French
+329,Calthorpe Arms,London,Bar
+330,Meze Mangal,London,Mediterranean
+331,Restaurante Bota Feijao,Lisbon,European
+332,Gramabar,Madrid,American
+333,Don Camilo,Paris,French
+334,Bratislavska Haluskaren,Bratislava,Pizza
+335,Restaurant Burgli,Zurich,Swiss
+336,Villa Maasai,Paris,African
+337,King Falafel Palace,Paris,Fast Food
+338,Piccolo Mondo,Helsinki,Italian
+339,Moxie Fish Bar,London,Seafood
+340,Brasserie Marius,Lyon,French
+341,Taste of India,Budapest,Indian
+342,The Prince of Wales,London,Bar
+343,Jack l'a dit,Brussels,Belgian
+344,Restaurante Tony Roma's,Madrid,American
+345,Kaffefair,Copenhagen,European
+346,Chez Franz,Brussels,Bar
+347,Berlin Burrito Company Mitte,Berlin,Mexican
+348,Convivium,Rome,Pizza
+349,Cafe The Flying Dutchman,Amsterdam,Bar
+350,Pistolet Original,Brussels,Belgian
+351,Il Mondo Kava,Bratislava,Cafe
+352,Azienda Cucineria,Rome,Italian
+353,Shiraz,Oslo,Middle Eastern
+354,Chutnify,Berlin,Indian
+355,Les 4 jeudis,Brussels,Vegetarian Friendly
+356,Brown and Green at Mayow Park,London,Cafe
+357,Osteria No. 1,Berlin,Italian
+358,Bar Giornale,Munich,Italian
+359,Petit Hongkong,Paris,Chinese
+360,Yaki,Brussels,Asian
+361,Comptoir Libanais,London,Lebanese
+362,Cafe-Bar Conter,Luxembourg,Italian
+363,Pasta & Vino,Berlin,Italian
+364,Le Bouchon Lustre,Lyon,French
+365,L’Osteria,Vienna,Pizza
+366,Babooshka,Warsaw,Russian
+367,La Dinette de Louis,Paris,French
+368,Dame am Kamin,Berlin,German
+369,Sugar Hut,Geneva,Asian
+370,Busaba Eathai,London,Asian
+371,Honest Burgers - Warren St,London,Fast Food
+372,Le Bistrot Gourmand du Haut Marais,Paris,French
+373,Pano De Boca,Lisbon,Portuguese
+374,La Trini,Barcelona,Mediterranean
+375,Farina,Rome,Italian
+376,Mecanic,Barcelona,French
+377,LA TAVERNA,Barcelona,Spanish
+378,Cheesy Cakes,Amsterdam,Cafe
+379,Brussels Brasserie,Brussels,Belgian
+380,The Knife,Madrid,Steakhouse
+381,Stoemelings,Brussels,Belgian
+382,Austernkeller,Munich,Seafood
+383,Signora AVA,Brussels,Mediterranean
+384,Telepizza,Madrid,Pizza
+385,Wirtshaus Valley's,Munich,German
+386,S' Wiener Naschmarkt Beisl,Vienna,German
+387,Caffe Murano,Lyon,Italian
+388,Le Rialto,Lyon,Italian
+389,Nan True Thai,London,Thai
+390,Au Bon Coeur 3 (gare du midi),Brussels,Mediterranean
+391,The Best Kebab,London,Fast Food
+392,La Pantera Negra,Athens,Peruvian
+393,Golf Restaurant,Prague,European
+394,El salero,Madrid,Mediterranean
+395,Restaurant Miteinander,Berlin,German
+396,AlCapone's Club Restaurant Ostrava,Prague,Italian
+397,Malostranska Pivnice,Prague,Bar
+398,Genio,Paris,Pizza
+399,Jim Block Kirchenallee,Hamburg,American
+400,Le Hollandais,Amsterdam,French
+401,Restaurant Gron,Helsinki,European
+402,Paparazzi Restaurant & Pizzeria,Budapest,Pizza
+403,Pizza Do Krabice,Prague,Pizza
+404,Le Mouton Blanc,Paris,French
+405,Apollo Taverne,Zurich,Mediterranean
+406,The Fitzrovia,London,Bar
+407,Xerta Restaurant,Barcelona,International
+408,Tandoor House,Zurich,Indian
+409,Pod Kopcem,Krakow,Polish
+410,Sarovar,Munich,Indian
+411,Kimchee,London,Fast Food
+412,Sushinoen,London,Japanese
+413,Pizza Gege,Rome,Italian
+414,Puerto Azul,Milan,Peruvian
+415,Au Coin Pasteur,Paris,French
+416,Sumi,Milan,Japanese
+417,So'Riso - Corso Magenta,Milan,Italian
+418,ROSSOPOMODORO Swiss Cottage,London,Italian
+419,Duke of Hamilton,London,Pub
+420,Bar Le Patron,Amsterdam,Dutch
+421,Amber Indian Restaurant,Munich,Indian
+422,Pub Kleber Bar Brasserie,Paris,French
+423,Bembo al Pigneto,Rome,Italian
+424,Hansom Cab,London,Bar
+425,Planet Sushi,Warsaw,Japanese
+426,La Venta,Barcelona,Mediterranean
+427,El Bigote del Greco,Madrid,Cafe
+428,Pjotr Media Cafe,Amsterdam,Dutch
+429,BEIM SIGGY,Luxembourg,French
+430,Semas Cafe,London,British
+431,Colmado Murria,Barcelona,Delicatessen
+432,The Village Restaurante,London,Portuguese
+433,Peter Rabbit & Friends,Madrid,Spanish
+434,Firezza Stratford,London,Pizza
+435,PETIT BANGKOK,Barcelona,Asian
+436,Kata,London,Sushi
+437,Fragma,Athens,Greek
+438,Shezan,Brussels,Indian
+439,@Pizza,Edinburgh,Pizza
+440,Wesley's Cafe,London,British
+441,Pause Cafe,Budapest,Bar
+442,Kinai-koreai Etelbar,Budapest,Asian
+443,Pohostinec Monarch,Prague,Steakhouse
+444,Glacis Beisl,Vienna,German
+445,Granja Flori's 2,Barcelona,Spanish
+446,Sushi Okuda,Paris,Japanese
+447,L'Olyve,Geneva,Pub
+448,BiancoNoir Bistrot,Barcelona,Mediterranean
+449,Detour,Paris,French
+450,Ring the Bell,Warsaw,Bar
+451,Trader Vic's,Munich,Asian
+452,Public House 12,Brussels,Bar
+453,L'Etranger,London,French
+454,Gerbillo Furioso,Rome,European
+455,Sushi House,Paris,Japanese
+456,Strudlkuchl,Vienna,Austrian
+457,Lehuto - Craft Beer Bar,Budapest,Spanish
+458,Foster`s,Madrid,American
+459,Notre Maison,Lyon,French
+460,Le Streghe,Rome,Italian
+461,Marco,Lisbon,European
+462,Brittany Food,Paris,French
+463,Manana,Geneva,Mexican
+464,Boetzow Privat,Berlin,German
+465,Alkimia,Barcelona,Mediterranean
+466,Happy Buddha,Berlin,Chinese
+467,Cosel Palais Gran Cafe e Restaurat,Vienna,Austrian
+468,Anyday SuperSalad,London,Cafe
+469,Bodega Biarritz,Barcelona,Mediterranean
+470,ADN bar,Geneva,Brew Pub
+471,Oh! Regelade de la Tour Eiffel,Paris,French
+472,Kulinarium 7,Vienna,Croatian
+473,Aoc Les Halles,Lyon,French
+474,Mr Coco Burger,Madrid,American
+475,Cafetaria El Corte Ingles,Lisbon,European
+476,Bahia Do Porto Mar,Barcelona,Brazilian
+477,Koala Republic,Amsterdam,International
+478,Pizzerias Carlos Ventas,Madrid,Italian
+479,Meat and Sea Ltd,London,Steakhouse
+480,Al Borgo,Milan,Seafood
+481,Les Byzantins,Paris,Greek
+482,Cafe 35,Prague,French
+483,Mamou,Paris,French
+484,Coopers Arms,London,Bar
+485,Man-Nam,Hamburg,Asian
+486,Chez Moss,Lyon,French
+487,Barrio Shoreditch,London,Latin
+488,Kaskada,Prague,European
+489,Edo Fusion Asian Cusine,Krakow,Japanese
+490,Restaurante Casa dos Passarinhos,Lisbon,European
+491,Mamma's Pastabar,Munich,Italian
+492,Black & Blue,London,Steakhouse
+493,Eathai,Paris,Thai
+494,Restaurante El Cisne,Madrid,Mediterranean
+495,Bar B Q Restaurant,Athens,European
+496,Le Grenelle de Pekin,Paris,Chinese
+497,Sushi Boky,Geneva,Asian
+498,The Jasmine by Spice Nouv-Oh!,London,Indian
+499,Sorenga Sjomat,Oslo,Seafood
+500,Regina Margherita,Vienna,Italian
+501,restaurante securas,Lisbon,Portuguese
+502,Oaziz,Brussels,Moroccan
+503,El Gusto,Munich,Spanish
+504,Croco,Lisbon,European
+505,The Albert Pub,Rome,Bar
+506,BDO Bifanas Bar,Lisbon,Portuguese
+507,Cindy’s Diner Airport Berlin Schoenefeld,Berlin,American
+508,Restaurant Kornhauslturm,Vienna,Austrian
+509,Sea Fare Fish Bar,London,Seafood
+510,Cafe Con Bar,Oslo,Bar
+511,La Place Cafe,Paris,French
+512,Mr. Hau,Prague,Vietnamese
+513,Babylon Alaturka,Amsterdam,Italian
+514,Il Primo second edition,Prague,Mediterranean
+515,curryfritze,Berlin,Indian
+516,Metro Fast Food,Helsinki,Lebanese
+517,Kis Borostyan,Budapest,Mediterranean
+518,Ranoush - Kensington,London,Lebanese
+519,Le Local Bastille,Paris,Italian
+520,Le Petit Voisin,Paris,French
+521,KFC,Barcelona,Fast Food
+522,Nico,Rome,Italian
+523,Velo,Helsinki,Cafe
+524,Longan Asian Gastro,Madrid,Chinese
+525,Louise Barocco,Brussels,Italian
+526,Le Gru',Rome,Italian
+527,Restaurante O Carvoeiro,Lisbon,Portuguese
+528,Buffalo Steakhouse,Amsterdam,Steakhouse
+529,Rosso pizza,Rome,Pizza
+530,Osteria Romana,Brussels,Italian
+531,Ralph's Milano,Milan,Italian
+532,Tea:licious Cafe,Copenhagen,Fast Food
+533,Ginja De Alfama,Lisbon,Mediterranean
+534,El Milagrito,Barcelona,Mediterranean
+535,KFC Flora,Prague,American
+536,Moudi's Lecker Cafe,Zurich,Middle Eastern
+537,La Petite Casserole,Paris,French
+538,Boheme Cafeteria - Panaderia,Barcelona,Cafe
+539,Pontepez,Madrid,American
+540,Restaurant MANGAL,Copenhagen,Mediterranean
+541,Nybrogatan 12,Stockholm,Italian
+542,Restaurante Wenzhou,Barcelona,Chinese
+543,Zara,Madrid,Caribbean
+544,Pizza Union Dalston,London,Pizza
+545,Bar a Iode,Paris,Seafood
+546,Il Piatto,Stockholm,Italian
+547,Bar chimere,Geneva,Cafe
+548,TI AMO TI - Pizzeria & Trattoria,Krakow,Seafood
+549,Le Pantruche,Paris,French
+550,Maitrea,Prague,Mexican
+551,Pavillon d'Or,Brussels,Asian
+552,Bay Side Restaurant,Rome,Italian
+553,Belushi's - Edinburgh,Edinburgh,Bar
+554,Yamato,Warsaw,Japanese
+555,O' Retorno Restaurant,Barcelona,Seafood
+556,Blarney Inn,Dublin,Irish
+557,Lucarelli - Delicati Sapori,Rome,Italian
+558,EXKi Woluwe,Brussels,Fast Food
+559,Dersett,Milan,Italian
+560,Freud,Athens,Bar
+561,Gauchos - Spuistraat,Amsterdam,Steakhouse
+562,Jin xin lou paris,Paris,French
+563,Inn Ledinek,Ljubljana,European
+564,VIVECA,Milan,Italian
+565,"L'Entente,Le British Brasserie",Paris,European
+566,U Krale Vaclava IV,Prague,Czech
+567,Le Gambrinus,Brussels,Belgian
+568,Letz Sushi City,Copenhagen,Japanese
+569,Le Restaurant,Paris,French
+570,Restaurant Piacere,Luxembourg,Italian
+571,The Bowl,Berlin,European
+572,Taylor St Baristas Shoreditch,London,Fusion
+573,The Fish & Chipper,London,Seafood
+574,Royal Indian Delivery,London,Indian
+575,Restaurant Ojia,Paris,Vietnamese
+576,El Establo Taberna Madrilena,Madrid,Spanish
+577,Kimchee,London,Asian
+578,Rembrandt Bar,Amsterdam,Bar
+579,Le Relais des Deux Gares,Paris,French
+580,Les Philosophes,Geneva,French
+581,Piccolo Mare 1,Milan,Seafood
+582,Bella Mia,London,Italian
+583,Le P'tit Breguet,Paris,French
+584,CasaManco,Rome,Italian
+585,Hemingway's,Lyon,Steakhouse
+586,Ceprownia,Warsaw,Polish
+587,SOUP DRAGON,Dublin,Cafe
+588,L'Arros,Barcelona,Seafood
+589,Lilla Hasselbacken,Stockholm,Swedish
+590,Madureira's Forum,Oporto,European
+591,Burgerland,Budapest,American
+592,QW Sportsbar,Madrid,Brew Pub
+593,Ristorante Salvi,Rome,Italian
+594,Pizzeria La Smorfia,Milan,Italian
+595,Giglioni Pizza,Rome,Italian
+596,Ducky's,Paris,Asian
+597,Bandol,London,French
+598,Rose Garden,Berlin,Cafe
+599,Ravintola Stansvik,Helsinki,Cafe
+600,Villa Dante,Munich,Italian
+601,White Florida Bar Cocteleria & Street Food,Barcelona,Brew Pub
+602,Ristorante il Giardino,Rome,Italian
+603,Casa Patillas,Madrid,Spanish
+604,Sehraya,Berlin,Mediterranean
+605,Restaurante Numar,Madrid,Spanish
+606,As Velhas,Lisbon,Mediterranean
+607,Milchbar-Am-Bellevue,Zurich,European
+608,Vietnam,Vienna,Vietnamese
+609,Yuc!,Stockholm,Mexican
+610,Leaf and Bean,London,Cafe
+611,Zio Pino,Milan,Italian
+612,Via Volturno Roma,Rome,Italian
+613,BollyFood,Copenhagen,Indian
+614,Ma Va'?,Rome,Italian
+615,Heritage Shop & Wine,Warsaw,Italian
+616,Trattoria Restaurant,Budapest,Italian
+617,Deli Peppe,Madrid,Italian
+618,Cumiskeys Pub,Dublin,Irish
+619,Pino,Berlin,Italian
+620,Carmencita Bar,Madrid,American
+621,Sadler,Milan,Italian
+622,Piazza della Cucina,London,Italian
+623,ViennasVietnam,Vienna,Vietnamese
+624,Lang Biang Restaurant,Prague,Thai
+625,La Taberna de Padilla,Madrid,Healthy
+626,Cafe du Bourg de Four,Geneva,French
+627,Tento,Barcelona,Spanish
+628,12 Apostel,Berlin,Italian
+629,Affaire,London,French
+630,Brewers Fayre Queens Crossing,Edinburgh,Bar
+631,Le Bistro du Perigord,Paris,French
+632,El Capote,Madrid,Spanish
+633,Chez Kumar,Paris,French
+634,Sushi Zen,Paris,Japanese
+635,Moli,Berlin,Asian
+636,La Finestra,Prague,Italian
+637,Oberwiesenfeld,Munich,German
+638,Barde Madrid,Madrid,Bar
+639,Kaviaren LYRA Jimmy's Restaurant Bar,Bratislava,European
+640,Zaxos,Athens,Fast Food
+641,Fishbar Noordzee Mer du Nord,Brussels,Seafood
+642,Dragon I,Amsterdam,Sushi
+643,Nostrum,Barcelona,Italian
+644,U Naftare,Prague,European
+645,Intermezzo Restaurant,Budapest,International
+646,Mailsi,Prague,Middle Eastern
+647,Babbo,Barcelona,Italian
+648,Restaurant La Nouvelle Passerelle,Lyon,French
+649,Klippkroog,Hamburg,German
+650,Potrefena Husa,Prague,American
+651,GourmetBar,Munich,German
+652,Honest Burgers - Soho,London,Fast Food
+653,Amande & Pistache,Brussels,Lebanese
+654,Cuenllas,Madrid,Mediterranean
+655,Hooters,Prague,American
+656,Cazorla,Madrid,Spanish
+657,Sushi Pak Arizala,Barcelona,Japanese
+658,Wine Guest,Lisbon,Spanish
+659,Les Jardins de Saint-Germain,Paris,French
+660,Crosstown Camden - Doughnut & Coffee Bar,London,American
+661,Cerveceria Riano,Madrid,Spanish
+662,Espacio Gastronomico,Barcelona,Greek
+663,India Box - La box qui vient de loin,Paris,Indian
+664,Conversas Vadias,Oporto,Japanese
+665,The Bear,London,Bar
+666,Carne Argentina,Amsterdam,Steakhouse
+667,La Romana,Brussels,Italian
+668,Waterfall Cafe,London,Seafood
+669,Searcys at The Gherkin,London,European
+670,Rugantino,Brussels,Italian
+671,Tas Restaurant Bloomsbury,London,Mediterranean
+672,Coco di Mama,London,Italian
+673,Vecchia Osteria del Gelsomino,Rome,Italian
+674,Mucci's,Barcelona,Argentinean
+675,Set de Gotic,Barcelona,Mediterranean
+676,Pizzeria Quelli dell'8 Corso,Rome,Pizza
+677,Cinecitta Ristorante - Trattoria,Paris,Italian
+678,O bar,Barcelona,Bar
+679,Chez Margot,Paris,French
+680,Douceur D'oranger,Madrid,French
+681,Noodle Atelier,Paris,Chinese
+682,Telepizza,Madrid,Pizza
+683,Antoine de Montmartre,Paris,French
+684,Pizza Cuccini Mangiare,Munich,Pizza
+685,Cafeteria Restaurante Las Cubas,Madrid,Spanish
+686,O Q de Poule,Paris,French
+687,Noglu Confectionery - Angyalfoldi ut,Budapest,Healthy
+688,Chez Leon,Paris,French
+689,C Sushi,Lyon,Japanese
+690,Marquis of Wellington,London,Bar
+691,Bar Stazione M.M. Lambrate,Milan,Mediterranean
+692,Ai Cham,Paris,Lebanese
+693,El Patio,Rome,Italian
+694,Henry Am Zug,Vienna,European
+695,Le Berger,Paris,French
+696,Collonut,Barcelona,Spanish
+697,Oi Sushi,Paris,Japanese
+698,Fischclub,Hamburg,German
+699,Ristorante La Glorietta,Rome,Italian
+700,Lubin,Vienna,Seafood
+701,Cocina Cayena Cooking & Business,Madrid,Spanish
+702,Terraco Rui Paula,Lisbon,European
+703,Trattoria Rucola,Warsaw,Italian
+704,Il Forno Italiano,Stockholm,Italian
+705,Cooperage,London,Bar
+706,U Barbary,Prague,European
+707,Tai Thu Traitteur,Lyon,Asian
+708,Arrosto,Prague,Italian
+709,Friend Circle,Milan,Chinese
+710,Guinea Grill,London,Steakhouse
+711,Pizza Muffin,Krakow,Italian
+712,KFC Andel,Prague,American
+713,Hospoda U Kruhu,Prague,Czech
+714,l'Angolo Del Vegetariano,Milan,Italian
+715,Kees,Amsterdam,European
+716,Mirash Tandoori,London,Indian
+717,Orient Kitchen,Brussels,Chinese
+718,The Knights Templar,London,Bar
+719,Sushi6,Paris,Japanese
+720,The Vincent Rooms,London,European
+721,Natuurlijk bij Irina,Amsterdam,European
+722,Monna Isa,Geneva,Vegetarian Friendly
+723,Kavarna Na Hradcanskem Namesti,Prague,Cafe
+724,Griffin,London,Seafood
+725,Pitsu,London,Italian
+726,Shanghai Noodle,Amsterdam,Chinese
+727,Pizzeria Ciao,Madrid,Pizza
+728,passage de pondichery,Paris,Indian
+729,Sly's Coffee & Bar,Budapest,Cafe
+730,BestCeler,Prague,European
+731,Sushi Sano,Munich,Japanese
+732,Cabana Cafe,Dublin,Irish
+733,Bengal Tiger,London,Indian
+734,Pizzeria 4 Stagioni,Milan,Italian
+735,El Guindilla del Born,Barcelona,Bar
+736,imm Thai Fusion Wimbledon,London,Asian
+737,Taberna El Papelon,Barcelona,Bar
+738,La Maison d'Asie,Geneva,Asian
+739,Restarurante El Embarcadero,Madrid,Steakhouse
+740,Itsu,London,Japanese
+741,Ristorante La Capitale,Rome,Italian
+742,Taverna Patriot,Prague,European
+743,Neu Helgoland,Berlin,German
+744,Yuko,Oporto,European
+745,Anna & Jagetsberger,Vienna,Vegetarian Friendly
+746,Miss Clara by Nobis,Stockholm,European
+747,Kavarna Macek,Ljubljana,Bar
+748,The Harrow,London,Bar
+749,La Boveda 78,Madrid,Spanish
+750,Chasse Grand Cafe,Amsterdam,International
+751,La Carezza Pizzeria Ristorante,Prague,Pizza
+752,Alex Grill,Vienna,Pub
+753,"Weinberg,Weinhandlung und Weinbar",Berlin,Wine Bar
+754,Wok'Up,Paris,Chinese
+755,Tapy Y Toro,Warsaw,Spanish
+756,Shrimpy Markets,London,Seafood
+757,Pizzeria Pommmodoro,Rome,Italian
+758,Sayuri,Berlin,Seafood
+759,Cafetaria Mensagem,Lisbon,European
+760,The Coral Room,London,Bar
+761,Trattoria da Antonio,Warsaw,Italian
+762,La Cocina de San Anton,Madrid,Mediterranean
+763,Amma,Berlin,Singaporean
+764,Byron Strand,London,American
+765,Cafe D Aujourd Hui,Paris,French
+766,Caprera,Rome,Italian
+767,Gandhi Palace,Lisbon,Indian
+768,El Septimo,Madrid,Spanish
+769,Rody Boland,Dublin,Irish
+770,Subway Cafe,Milan,Italian
+771,The Canary,London,European
+772,Lebon L'Authentique Casse-croute,Paris,French
+773,Le Jardin Imperial,Brussels,Chinese
+774,Rosso Papillon,Rome,Italian
+775,Freud Oriental,Athens,Japanese
+776,Baking Lab Amsterdam,Amsterdam,Middle Eastern
+777,Szorp,Budapest,Cafe
+778,Piwnica pod Kominkiem,Krakow,Polish
+779,Besedni Restaurace,Prague,European
+780,Ceviche Old St,London,Peruvian
+781,Le Pavillon,Brussels,French
+782,Meson Castellano,Barcelona,Bar
+783,San Thai,Warsaw,Thai
+784,Los Platitos,Barcelona,Italian
+785,Old Fashion Bar,Zurich,European
+786,Aux Saveurs du Marche,Paris,French
+787,Au Bord de l'Eau,Lyon,French
+788,Toto & Malta,Hamburg,Italian
+789,Honest Burgers - Old St,London,Fast Food
+790,THE DUCHESS,Amsterdam,French
+791,Red Cafe Prague,Prague,European
+792,madpizza Santa Justa,Lisbon,Pizza
+793,La Porchetta,London,Italian
+794,India Gate,Paris,Indian
+795,Anastasia,Berlin,German
+796,Mr. Pepper,Oporto,International
+797,Cottons Shoreditch,London,Caribbean
+798,Organic Piadina,Barcelona,Italian
+799,Eva & Olga of Evohe Barcelona,Barcelona,Spanish
+800,U Prezidentu,Prague,European
+801,Sushi Bar,Paris,Japanese
+802,Le Relais de la Bucherie,Paris,French
+803,Mamichou,Paris,French
+804,Exodos Cafe Bar Restaurant,Berlin,Greek
+805,TriCiclo,Madrid,Mediterranean
+806,Warsaw Potato,Warsaw,Polish
+807,Sushi-Wok at Checkpoint Charlie,Berlin,Chinese
+808,Oost pizza pasta,Amsterdam,Italian
+809,Major Grubert,Berlin,French
+810,Nova Peixaria,Lisbon,European
+811,El Nando,Paris,Spanish
+812,Caffe Belsito,Rome,Italian
+813,L'Emulsion,Lyon,French
+814,Jin-Da,London,Thai
+815,The Granary,Edinburgh,Bar
+816,Mook Pancakes,Amsterdam,Dutch
+817,Bar Le Rouge Marine,Paris,French
+818,Meer & Mehr,Berlin,Seafood
+819,Restaurant Szmulewicz,Amsterdam,Dutch
+820,Forn de pa Cafeteria,Barcelona,Cafe
+821,Altberliner,Berlin,German
+822,Two Boys Brew,Dublin,Cafe
+823,The Beer Bock S.L,Barcelona,Spanish
+824,Las Muns Raval,Barcelona,Delicatessen
+825,Burnt Toast Cafe,London,Cafe
+826,Le Scojo,Lyon,French
+827,Piccola Ischia,Milan,Pizza
+828,Restaurante Malecon,Madrid,Pub
+829,Bar Casla,Madrid,Spanish
+830,Belmondo,London,Italian
+831,Tortilla Stratford,London,Mexican
+832,Quase Cafe,Lisbon,Cafe
+833,Beat Restaurant & Cafe,Prague,Italian
+834,Nabrasa Express,London,Brazilian
+835,Vino & Basilico,Berlin,Italian
+836,Restaurant Palaegade,Copenhagen,European
+837,Vanilla Grey,Berlin,Cafe
+838,Mamacita,Luxembourg,Mexican
+839,Bar31,Munich,Bar
+840,Le Terrasse de Pomone,Paris,French
+841,Klubczyk,Krakow,Cafe
+842,Valadouro,Madrid,Seafood
+843,Docel,Lisbon,European
+844,Lefteris Fish Tavern,Athens,Steakhouse
+845,Indian Stories,Stockholm,Indian
+846,Chuty's - Heart Of Asia,Ljubljana,Seafood
+847,Aisha's Restaurant,London,Moroccan
+848,La Cuccagnina,Milan,Italian
+849,Bitzinger Wurstelstand Albertina,Vienna,German
+850,La Laurea,Rome,Italian
+851,Thai Thai,Warsaw,Asian
+852,Le Lamarck Paris,Paris,French
+853,Zhou's Five,Berlin,Asian
+854,Mothers,Amsterdam,Dutch
+855,Trattoria da Silvan,Rome,Italian
+856,Osteria n. 1,Vienna,Italian
+857,Bouchon Des Cordeliers,Lyon,French
+858,Pizzeria Mona Mia,Berlin,Italian
+859,Burro e Salvia,London,Italian
+860,Brasserie l'olivia,Paris,French
+861,Chez Duc,Paris,Asian
+862,Pergola on the Roof,London,Fast Food
+863,Beaver Brewing Company,Vienna,American
+864,Vanilladu Cafe,Dublin,European
+865,ANTANI,Brussels,Italian
+866,Patio do Bairro,Lisbon,Mediterranean
+867,Northfield House Hotel,Edinburgh,Bar
+868,BaRRa de Pintxos Via Augusta,Barcelona,Mediterranean
+869,Fabryka Lodow Tradycyjnych,Warsaw,Cafe
+870,Da Ferdinando,Vienna,Italian
+871,Trattoria la Vecchia Guardia,Milan,Italian
+872,MA.GI. Bar,Rome,Italian
+873,Party Pizza,Rome,Pizza
+874,Puerta del Sol,Vienna,Mediterranean
+875,Yo'Mo Lounge,Geneva,Lebanese
+876,Saphir,Lyon,Mediterranean
+877,Dom Cafe,Milan,Bar
+878,Mr Nicks,Edinburgh,Fast Food
+879,Amfora,Prague,European
+880,Gousia Tandoori,London,Indian
+881,El Raco De Gracia,Barcelona,Spanish
+882,Amurg,London,Eastern European
+883,Gyros Pizza,Prague,Pizza
+884,The Burger Lobby,Madrid,American
+885,My Baar,Paris,French
+886,Goa Tandoori Restaurant,Hamburg,Indian
+887,Taberna del Volapie Diego de Leon,Madrid,Mediterranean
+888,Cafe Rive Droite,Paris,French
+889,QUAY,Oporto,Sushi
+890,Nando's,London,European
+891,Parfait Restaurant,Budapest,European
+892,L'Atelier Charonne,Paris,French
+893,Pepere Jean,Paris,Bar
+894,BROT AB,Stockholm,Cafe
+895,Ruby Marie Bar,Vienna,Bar
+896,L'Escamarla Restaurant,Barcelona,Spanish
+897,Restaurant Rudolph,Hamburg,German
+898,Restaurante Tronco,Lisbon,Portuguese
+899,Cervejaria Marisqueira Camoes,Lisbon,Seafood
+900,Mexico Lindo,Berlin,Mexican
+901,Cup & Glass,Krakow,Cafe
+902,Slunecnice,Prague,European
+903,Red Chilli,London,Indian
+904,Le Sicilianedde,Rome,Italian
+905,Huguette Maison de famille,Paris,Vegetarian Friendly
+906,Faanoos - Chiswick,London,Middle Eastern
+907,BrewEat,Rome,Italian
+908,Osteria Bacaro,Munich,Bar
+909,Plata,Ljubljana,Italian
+910,Restaurant La Quintessence,Lyon,French
+911,Salero,Athens,Mediterranean
+912,Yield N16,London,Bar
+913,Boca Grande Das Restaurant,Zurich,Italian
+914,Pizza Bella,Brussels,Italian
+915,Saucy,London,Italian
+916,Brazier Wine Bar,Lyon,French
+917,Restauracja Bialy Domek,Warsaw,Polish
+918,Paprika Gourmet,Barcelona,American
+919,Chez Bo,Zurich,French
+920,L'Atelier de Joel Robuchon,London,French
+921,Waterfront London,London,Chinese
+922,Le Petit Cler,Paris,French
+923,Hattori,Stockholm,Japanese
+924,Arrosticino Pane & Vino,Rome,Italian
+925,Quinsou,Paris,French
+926,The Queen Adelaide,London,Bar
+927,Kawiarnia i Delikatesy Sw. Benedykta,Warsaw,Polish
+928,Wientalstruberl,Vienna,Austrian
+929,Brasserie Kamp,Helsinki,European
+930,YAMAS,Zurich,Mediterranean
+931,Potasia 2.0,Munich,Asian
+932,Steffan 1929,Milan,Italian
+933,Koetsu,Paris,Japanese
+934,The Dawson,Dublin,French
+935,Vineria del Este,Berlin,Spanish
+936,Agustarello,Rome,Mediterranean
+937,Tito Ristorante-Pizzeria,Rome,Italian
+938,Magasasa,Copenhagen,Chinese
+939,Pim Pam Burger,Barcelona,American
+940,The Windsor Castle,London,Bar
+941,Alt Wiener Salon,Vienna,Austrian
+942,Usmania Grill Restaurant,London,Lebanese
