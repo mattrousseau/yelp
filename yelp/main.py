@@ -34,7 +34,7 @@ def delete_restaurant(restaurant_id: int):
     db.pop(restaurant_id - 1)
     return {}
 
-@app.post("/restaurants")
+@app.post("/restaurants", response_model=schemas.Restaurant)
 def create_restaurant(restaurant: schemas.Restaurant):
     db.append(restaurant.dict())
     return db[-1]
